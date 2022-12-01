@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](/four-card-feature/public/images/Four%20Card%20Feature%20SCreesnhot.png)
+![](/images/Four%20Card%20Feature%20SCreesnhot.png)
 
 ### Links
 
